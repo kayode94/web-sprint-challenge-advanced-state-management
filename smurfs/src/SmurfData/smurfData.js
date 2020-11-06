@@ -1,0 +1,1 @@
+export const smurfURL = 'http://localhost:3333/smurfs'
